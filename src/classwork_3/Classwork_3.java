@@ -15,6 +15,8 @@ public class Classwork_3 {
 //		
 //	    }
 //	    
+//	3) (не смог =\ )
+		
 		}
 	
 }
