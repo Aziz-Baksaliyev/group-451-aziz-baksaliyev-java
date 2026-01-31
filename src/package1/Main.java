@@ -13,4 +13,3 @@ public class Main {
         System.out.println("model.Date: " + modelDate.timestamp);
     }
 }
-
