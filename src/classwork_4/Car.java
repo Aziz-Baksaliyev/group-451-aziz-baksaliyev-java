@@ -17,7 +17,7 @@ public class Car {
             if (fuel < 0) fuel = 0;
             System.out.println(brand + " проехала дистанцию. Скорость: " + speed + " км/ч. Топливо: " + fuel + "%");
         } else {
-            System.out.println("⚠️ " + brand + " не может ехать: бак пуст!");
+            System.out.println(brand + " не может ехать: бак пуст!");
         }
     }
 
