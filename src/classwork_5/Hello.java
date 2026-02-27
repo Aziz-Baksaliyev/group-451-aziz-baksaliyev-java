@@ -1,7 +1,7 @@
 package classwork_5;
 
 public class Hello {
-	public static void main(String[] args) {
+//	public static void main(String[] args) {
 //	1) int hola = 5;
 //	if (hola%2==0) {
 //		System.out.print("Четное");
@@ -31,7 +31,7 @@ public class Hello {
 //		3) int side1 = 10;
 //		int side2 = 8;
 //		int side3 = 6;
-		//...
+//		...
 //		4) double sum = 3000;
 //		if (sum >= 1000 && sum < 2000) {
 //			sum *= 1.05;
@@ -48,8 +48,8 @@ public class Hello {
 //		else {
 //			System.out.print("Нет скидки");
 //		}
-		// 5) ...
-		//6) int nine = 9;
+//		 5) ...
+//		6) int nine = 9;
 //		for (int x = 1; x <= 10; x++) {
 //			System.out.print("Ответ: " + nine * x + " ");
 //		}
@@ -93,6 +93,6 @@ public class Hello {
 //		17) ...
 //		18) int a = (Math.random() * 101);
 //		...
-		
+//		
 	}
 }
